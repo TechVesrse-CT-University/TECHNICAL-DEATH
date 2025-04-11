@@ -22,6 +22,10 @@ Health Box is an AI-powered mental health and medical diagnosis system, symptom 
 > ![WhatsApp Image 2025-04-11 at 10 34 38_df82a525](https://github.com/user-attachments/assets/2270fd9b-1f36-4837-8eab-83168d3cf99f)
 > ![WhatsApp Image 2025-04-11 at 10 35 05_3d7ffbb8](https://github.com/user-attachments/assets/1021641b-9b54-4e87-a704-30e23d90660e)
 > ![WhatsApp Image 2025-04-11 at 10 23 38_244ac004](https://github.com/user-attachments/assets/f00f4409-af4a-4fdc-9e47-d807882197f3)
+> ![WhatsApp Image 2025-04-03 at 16 32 11_037d6279](https://github.com/user-attachments/assets/b94a59d8-972a-44f0-a9c3-6a67adee3a55)
+> ![WhatsApp Image 2025-04-03 at 16 32 54_9bf8ab06](https://github.com/user-attachments/assets/53126929-838b-4e79-9e3c-27827949638e)
+
+
 
  <!-- Replace with actual path -->
 >
